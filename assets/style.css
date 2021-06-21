@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+.nav {
+    display: flex;
+    background-color: #f5f5dc75;
+    padding: 2em;
+    justify-content: space-evenly;
+}
+
+.nav a {
+    color: #000000a6;
+    text-decoration: none;
+    font-size: 1.34em;
+}
+
+.selected {
+    color: red
+}
+
+.inner h3 {
+    text-transform: capitalize;
+}
+
+.inner {
+    padding: 2em 3em;
+
+}
